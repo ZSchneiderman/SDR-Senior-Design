@@ -1,0 +1,4 @@
+Useful References:
+
+RF Design and Concepts
+https://www.allaboutcircuits.com/textbook/radio-frequency-analysis-design/
