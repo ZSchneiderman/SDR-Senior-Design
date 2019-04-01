@@ -1,0 +1,16 @@
+Version 4
+SymbolType BLOCK
+RECTANGLE Normal 146 104 0 16
+TEXT 26 59 Left 0 7V_Power_Regulator
+PIN 144 32 LEFT 8
+PINATTR PinName 7V_+
+PINATTR SpiceOrder 1
+PIN 144 80 LEFT 8
+PINATTR PinName 7V_-
+PINATTR SpiceOrder 2
+PIN 0 32 RIGHT 8
+PINATTR PinName 12V_+
+PINATTR SpiceOrder 3
+PIN 0 80 RIGHT 8
+PINATTR PinName 12V_-
+PINATTR SpiceOrder 4
