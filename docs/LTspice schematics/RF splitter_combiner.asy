@@ -1,0 +1,16 @@
+Version 4
+SymbolType BLOCK
+RECTANGLE Normal 80 64 -80 -64
+TEXT 1 1 Center 2 Splitter/Combiner
+PIN -80 -32 RIGHT 8
+PINATTR PinName IN1
+PINATTR SpiceOrder 1
+PIN -80 32 RIGHT 8
+PINATTR PinName IN2
+PINATTR SpiceOrder 2
+PIN 80 -32 LEFT 8
+PINATTR PinName OUT1
+PINATTR SpiceOrder 3
+PIN 80 32 LEFT 8
+PINATTR PinName OUT2
+PINATTR SpiceOrder 4

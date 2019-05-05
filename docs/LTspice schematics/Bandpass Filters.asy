@@ -1,0 +1,8 @@
+Version 4
+SymbolType BLOCK
+RECTANGLE Normal 194 114 -128 -127
+TEXT -53 -15 Left 2 80m/20m BPFs
+PIN -128 -16 NONE 8
+PINATTR SpiceOrder 1
+PIN 192 -16 NONE 8
+PINATTR SpiceOrder 2
